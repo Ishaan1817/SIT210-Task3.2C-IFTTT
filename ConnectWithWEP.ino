@@ -61,7 +61,7 @@ void loop() {
     }
     client.stop();
     Serial.println();
-    Serial.println("Mail sent");
+    Serial.println("Disconnected");
 
   }
 
